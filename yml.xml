@@ -41,7 +41,7 @@ SYSTEM "shops.dtd">
     <categoryId>22720</categoryId>
     <picture>http://example.ru/l_pics/15461.jpg</picture>
     <param name="price66">290.00</param>
-    <cpa>0</cpa>
+    <cpa>1</cpa>
     <name>Картридж Canon BCI-3eC голубой</name>
     <vendor>Canon</vendor>
     <vendorCode>BCI-3eC</vendorCode>
