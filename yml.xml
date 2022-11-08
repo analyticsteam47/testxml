@@ -11,7 +11,7 @@ SYSTEM "shops.dtd">
   </currencies>
   <categories>
    <category id="22237">Смартфоны и гаджеты</category>
-   <category id="21695" parentId="22957">Cмартфоны</category>
+   <category id="21695" parentId="25957">Cмартфоны</category>
    <category id="23712" parentId="22957">Мобильные телефоны</category>
    <category id="23713" parentId="22957">Аксессуары для сотовых</category>
    <category id="22811" parentId="23713">Чехлы для телефонов</category>
