@@ -23,7 +23,7 @@ SYSTEM "shops.dtd">
   <offers>
    <offer id="11416" available="true">
     <url>http://www.example.ru/goods/11416/vlajnie_salfetki_defender_30102_100_sht/</url>
-    <price>165</price>
+    <price>166</price>
     <currencyId>RUR</currencyId>
     <categoryId>22727</categoryId>
     <picture>http://fast.example.ru/l_pics/11416.png</picture>
