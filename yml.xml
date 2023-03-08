@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="20230307T15:00:01">
+<yml_catalog date="20230308T15:00:01">
       <shop>
         <name>www.example.ru</name>
         <company>www.example.ru</company>
@@ -9,16 +9,16 @@
             <currency id="RUR" rate="1"/>
         </currencies>
         <categories>
-          <category id="2023030701">Категория 2023030701</category>
+          <category id="2023030801">Категория 2023030801</category>
         </categories>
         <offers>
-          <offer id="20230307" available="true">
-                  <url>http://www.example.ru/goods/20230307</url>
+          <offer id="20230308" available="true">
+                  <url>http://www.example.ru/goods/20230308</url>
                   <price>100</price>
-                  <categoryId>2023030701</categoryId>
-                  <picture>http://www.example.ru/pictures/20230307</picture>
-                  <name>Товар 20230307</name>
-                  <vendor>20230307 2023030701</vendor>
+                  <categoryId>2023030801</categoryId>
+                  <picture>http://www.example.ru/pictures/20230308</picture>
+                  <name>Товар 20230308</name>
+                  <vendor>20230308 2023030801</vendor>
                   </offer>
         </offers>
       </shop>
