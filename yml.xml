@@ -2,7 +2,7 @@
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
 <yml_catalog date="20240523T15:00:01">
       <shop>
-        <name>w ww.example.ru</name>
+        <name>www.example.ru</name>
         <company>www.example.ru</company>
         <url>http://www.example.ru</url>
         <currencies>
