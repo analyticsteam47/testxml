@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+      <channel>
+        <title>www.example.ru</title>
+        <link>www.example.ru</link>
+        <description>www.example.ru</description>
+        <item>
+          <g:id>20240611</g:id>
+          <g:title>Товар 20240611</g:title>
+          <g:description>Футболка черная</g:description>
+          <g:link>http://www.example.ru/goods/20240611</g:link>
+          <g:google_product_category>Футболки</g:google_product_category>
+          <g:image_link>http://www.example.ru/pictures/20240611</g:image_link>
+          <g:price>1.00 EUR</g:price>
+          <g:brand>20240611 Футболки</g:brand>
+          <g:condition>new</g:condition>
+          <g:availability>true</g:availability>
+        </item>
+      </channel>
+    </rss>
