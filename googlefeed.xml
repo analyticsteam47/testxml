@@ -5,14 +5,14 @@
         <link>www.example.ru</link>
         <description>www.example.ru</description>
         <item>
-          <g:id>20240611</g:id>
-          <g:title>Товар 20240611</g:title>
+          <g:id>20240612</g:id>
+          <g:title>Товар 20240612</g:title>
           <g:description>Футболка черная</g:description>
-          <g:link>http://www.example.ru/goods/20240611</g:link>
+          <g:link>http://www.example.ru/goods/20240612</g:link>
           <g:google_product_category>Футболки</g:google_product_category>
-          <g:image_link>http://www.example.ru/pictures/20240611</g:image_link>
+          <g:image_link>http://www.example.ru/pictures/20240612</g:image_link>
           <g:price>1.00 EUR</g:price>
-          <g:brand>20240611 Футболки</g:brand>
+          <g:brand>20240612 Футболки</g:brand>
           <g:condition>new</g:condition>
           <g:availability>true</g:availability>
         </item>
