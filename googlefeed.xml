@@ -15,6 +15,7 @@
           <g:brand>20240613 Футболки</g:brand>
           <g:condition>new</g:condition>
           <g:availability>in_stock</g:availability>
+          <g:product_type>Футболка</g:product_type>
         </item>
       </channel>
     </rss>
